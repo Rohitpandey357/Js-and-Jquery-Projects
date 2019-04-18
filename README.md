@@ -1,5 +1,5 @@
 # js-and-jquery-projects
-Learn javascript and jquery bu building projects
+Learn javascript and jquery by building projects
 
 1. FAQ Slider
 Make a FAQ Slider with the help of jquery.
