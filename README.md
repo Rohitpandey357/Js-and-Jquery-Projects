@@ -1,7 +1,7 @@
 # js-and-jquery-projects
 Learn javascript and jquery bu building projects
 
-!. FAQ Slider
+1. FAQ Slider
 Make a FAQ Slider with the help of jquery.
 
 2. Tic Tac Toe
